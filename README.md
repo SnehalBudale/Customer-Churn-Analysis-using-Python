@@ -94,7 +94,3 @@ This project demonstrates how EDA can be used to uncover patterns in customer be
 
 ---
 
-
-
-If you want next:
-I can make your **GitHub look like top-tier portfolio (with badges + visuals)**
