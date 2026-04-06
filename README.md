@@ -1,12 +1,12 @@
-# 📊 Customer Churn Analysis
+#  Customer Churn Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes customer churn data using Python and exploratory data analysis (EDA) to identify key factors influencing customer attrition. The analysis focuses on understanding customer behavior and deriving insights to improve retention strategies.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Identify key factors affecting customer churn
 * Analyze impact of contract type, payment methods, and tenure
@@ -15,7 +15,7 @@ This project analyzes customer churn data using Python and exploratory data anal
 
 ---
 
-## 🗂️ Dataset Description
+##  Dataset Description
 
 The dataset includes customer-level information such as:
 
@@ -27,7 +27,7 @@ The dataset includes customer-level information such as:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * Python
 * Pandas, NumPy
@@ -36,7 +36,7 @@ The dataset includes customer-level information such as:
 
 ---
 
-## 🧠 Analysis Performed
+##  Analysis Performed
 
 * Exploratory Data Analysis (EDA)
 * Churn rate comparison across contract types
@@ -46,7 +46,7 @@ The dataset includes customer-level information such as:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 * Month-to-month contract customers show highest churn (~42%)
 * Electronic check users have highest churn (~45%)
@@ -55,7 +55,7 @@ The dataset includes customer-level information such as:
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 * Bar charts for churn comparison across categories
 * Line graphs for tenure vs churn trends
@@ -63,7 +63,7 @@ The dataset includes customer-level information such as:
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 * Promote long-term contracts to improve retention
 * Encourage secure and automated payment methods
@@ -72,7 +72,7 @@ The dataset includes customer-level information such as:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```id="ghs2rm"
 ├── Customer Churn.csv
@@ -82,13 +82,13 @@ The dataset includes customer-level information such as:
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 
 This project demonstrates how EDA can be used to uncover patterns in customer behavior and support data-driven decision-making to reduce churn.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Snehal Budale**
 
