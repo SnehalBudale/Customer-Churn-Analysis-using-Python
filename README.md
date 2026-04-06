@@ -76,7 +76,7 @@ The dataset includes customer-level information such as:
 
 ```id="ghs2rm"
 ├── Customer Churn.csv
-├── TCA.ipynb
+├── EDA- Cust Churn Analysis.ipynb
 ├── README.md
 ```
 
